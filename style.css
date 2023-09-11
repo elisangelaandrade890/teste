@@ -1,0 +1,38 @@
+h1, h2{
+    color: blue;
+}
+
+li{
+   color: red;
+}
+
+.listaComClasse{
+color: purple;
+}
+.itemLista{
+   color: orange;
+}
+
+#sobre{
+   color: black;
+}
+
+body{
+   background-color: rgba(243, 224, 170, 0.76);
+}
+
+
+.boxOne{
+   width: 100px;
+   background-color: red;
+}
+.testeDeClass{
+   color: purple;
+}
+.boaNoite{
+   color: red;
+}
+
+#testandoId{
+   color: tomato;
+}
